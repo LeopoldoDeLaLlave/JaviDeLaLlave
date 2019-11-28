@@ -18,6 +18,13 @@ public class EjerciciosBasicosJava {
     }
     
     
+    public int multa(int velocidad, boolean birthday){
+        
+        
+        return 0;
+    }
+    
+    
     
     
     public static void main(String[] args) {
